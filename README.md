@@ -5,7 +5,7 @@ Dataset consisted of 170k lines of conversation
 ## npm libraries
 - readline-sync
 - node_characterai
-- dotenv axios form-data
+- openai websocket
 
 
 ## 🔗
